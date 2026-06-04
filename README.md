@@ -27,7 +27,7 @@ I'm a backend-focused developer passionate about building scalable, secure, and 
 
 ## 📌 Featured Projects
 
-### 🔐 [AuthVault](https://github.com/Sahil2426/authvault)
+### 🔐 [AuthVault](https://github.com/sahil-2403/authvault)
 > Enterprise-grade authentication API built with Node.js, Express & MongoDB
 
 - JWT authentication with access and refresh tokens
@@ -60,7 +60,7 @@ I'm a backend-focused developer passionate about building scalable, secure, and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-pawar24)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawarsahil2430@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil2426)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahil-2403)
 
 ---
 
